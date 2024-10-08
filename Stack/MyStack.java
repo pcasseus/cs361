@@ -80,7 +80,7 @@ public class MyStack<T> {
 		// Create a stack of Person
 		MyStack<Person> personStack = new MyStack<>();
 		Person p1 = new Person("Patrick");
-		Person p2 = new Person("Gavin");
+		Person p2 = new Person("Christelle");
 		// Push a person p1 with your name
 		personStack.push(p1);
 		// Push a person p2 with my name
