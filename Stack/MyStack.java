@@ -59,10 +59,10 @@ public class MyStack<T> {
 		inStack.push(1);
 		inStack.push(2);
 		// Pop
-		System.out.println("Popped from Integer stack: " + inStack.pop());
+		System.out.println("Pop from Integer stack: " + inStack.pop());
 		// Push 5
 		inStack.push(5);
-		System.out.println("Popped from Integer stack: " + inStack.pop());
+		System.out.println("Pop from Integer stack: " + inStack.pop());
 		
 		// TODO To complete
 		class Person {
